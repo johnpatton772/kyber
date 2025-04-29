@@ -1,0 +1,24 @@
+{
+	"name": "kyber-code",
+	"displayName": "Kyber Code Theme",
+	"description": "Kyber Code Syntax Color Theme (based off Material Default Theme)",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.45.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Kyber Code",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Kyber-Code-Color-Theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 88569
+	}
+}
